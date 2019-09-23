@@ -1,3 +1,7 @@
+# Lewagon to JS
+- Presentation slides at https://docs.google.com/presentation/d/1vWmuZ-T2PbJ5Jhc-T96qxxPf8nYrrXFNwXsRHIPCVu4/edit?usp=sharing
+- Presentation video at https://youtu.be/WWoN88WydTI
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
