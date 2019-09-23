@@ -1,0 +1,14 @@
+.currency-converter {
+  padding: 20px;
+  border: 1px solid #eee;
+  margin: 20px;
+}
+.currency-converter-input {
+  background: #eee;
+  color: black;
+  display: inline-block;
+  border: 2px solid #eee;
+  border-radius: 4px;
+  margin-right: 20px;
+  padding: 20px;
+}
